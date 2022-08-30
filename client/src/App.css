@@ -1,0 +1,442 @@
+/* #root {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.App {
+  text-align: center;
+}
+
+.Nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: deepskyblue;
+  color: aliceblue;
+  padding: 0.5rem;
+}
+
+.navbarLinks {
+  width: 20vw;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 5vw;
+}
+
+.Nav h2 {
+  margin: 0;
+}
+
+.Header,
+.Footer {
+  width: 100%;
+  height: 5vh;
+  background-color: #66d8f5;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Footer {
+  position: absolute;
+  margin-top: 2rem;
+  /* bottom: 0; */
+  place-content: center;
+}
+
+.patienPageContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.PatientSearchbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightyellow;
+}
+
+.PatientSearchbar label {
+  position: absolute;
+  left: -99999px;
+}
+
+.PatientSearchbar input {
+  width: 80vw;
+  height: 2rem;
+  margin: 1rem;
+  border: 1px solid #000;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.patientPage {
+  display: flex;
+}
+
+.AddressBook {
+  display: flex;
+  flex-direction: column;
+  background-color: azure;
+  width: 25vw;
+  height: 80vh;
+}
+
+.AddressBook .selectPatientBtn {
+  display: none;
+}
+
+.addressBookHeader {
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.patientsList {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+ul {
+  list-style: none;
+}
+
+.patient {
+  background-color: rgb(255, 210, 217);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0.5rem;
+  padding-right: 1rem;
+  border-radius: 10px;
+}
+
+.patientInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0.5rem;
+  /* flex-direction: column; */
+}
+
+.addressBookHeader h2 {
+  margin: 0.5rem;
+}
+
+.patientCardContainer {
+  background-color: #cfcfcf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75vw;
+}
+
+.NewPatient,
+.NewApointment,
+.FindPatient {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+  background-color: white;
+  padding: 2rem 1rem 4rem 1rem;
+  border-radius: 20px;
+  box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
+  z-index: 10;
+}
+
+.NewApointment {
+  transform: translate(-101%, -50%);
+}
+
+.FindPatient {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform: translate(1%, -50%);
+  max-height: 70vh;
+  width: 20%;
+}
+
+.FindPatient .PatientSearchbar {
+  background-color: #fff;
+  width: 100%;
+}
+.FindPatient .PatientSearchbar input {
+  width: 15vw;
+}
+
+.FindPatient .AddressBook {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  height: 40vh;
+  width: 15vw;
+  transform: translate(-20%);
+}
+
+.FindPatient .patient {
+  display: flex;
+  background-color: rgb(240, 240, 240);
+  margin: 0;
+  padding: 0;
+}
+
+.FindPatient .patientPhoneSmall {
+  display: none;
+}
+
+.FindPatient .addressBookHeader {
+  display: none;
+}
+
+.FindPatient .viewPatientBtn {
+  display: none;
+}
+
+.FindPatient .selectPatientBtn {
+  display: inline;
+}
+
+.newPatientForm,
+.newApointmentForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.newPatientForm input,
+textarea {
+  width: 70%;
+}
+
+.newPatientForm button {
+  margin-top: 2rem;
+}
+
+.newApointmentForm input,
+textarea {
+  width: 70%;
+}
+
+.newApointmentForm button {
+  margin-top: 2rem;
+}
+.closeNewPatientForm,
+.closeNewApointmentForm,
+.closeFindPatientForm {
+  position: absolute;
+  top: 1.2rem;
+  right: 2rem;
+  font-size: 2rem;
+  color: #333;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.genderInput,
+.typologyInput {
+  display: flex;
+}
+
+.patientCardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding-bottom: 5%;
+}
+
+.patientCardHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  border-radius: 20px;
+  width: 50vw;
+  margin: 1rem 0 0.5rem 0;
+  padding: 0 5rem 0 5rem;
+}
+
+.ageGenderContainer {
+  width: 8vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.patientCardNotes,
+.patientCardApointments {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+
+  margin: 0.5rem;
+  border-radius: 20px;
+}
+
+.patientCardApointments {
+  align-items: flex-start;
+  width: 62vw;
+}
+
+.patientCardInfo,
+.patientCardNotes ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  width: 50vw;
+  margin: 0.5rem;
+  padding: 2rem 5rem 2rem 5rem;
+  border-radius: 20px;
+}
+
+.addNote {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 5rem 5rem 6rem;
+}
+
+.addNote textarea {
+  width: 80%;
+  height: 200%;
+}
+
+.patientPhone,
+.patientAddress,
+.patientFiscalcode,
+.patientEmail,
+.patientNotes {
+  display: flex;
+  justify-content: space-between;
+  width: 50vw;
+  margin: 0.5rem;
+}
+
+#delete-patient-btn {
+  margin-top: 2rem;
+}
+
+#patientPhoneLabel {
+  margin-right: 2rem;
+}
+/* input labels style */
+#patientPhone input {
+  background: lightblue;
+  border: none;
+}
+
+#patientPhone input:focus {
+  background: rgb(174, 221, 197);
+  border: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(3px);
+  z-index: 5;
+}
+
+/*------------------------------------- Agenda page style -----------------------------------------------*/
+.weekContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.weekControl {
+  display: flex;
+  width: 100vw;
+}
+
+.weekControl button {
+  width: 100%;
+}
+
+.week {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  min-height: 90vh;
+  background-color: aquamarine;
+  padding-top: 0.5vw;
+}
+
+.day {
+  display: flex;
+  flex-direction: column;
+  background-color: cadetblue;
+  margin-left: 0.5vw;
+  padding: 0.5vw;
+  width: 100%;
+  border-radius: 10px;
+}
+
+#sat {
+  margin-right: 0.5vw;
+}
+
+.dayHeader {
+  background-color: darkblue;
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: #fff;
+  padding: 1vh;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.apointmentSmall {
+  background-color: lightgrey;
+  display: flex;
+  font-size: small;
+  align-items: center;
+  border-radius: 10px;
+  margin-top: 0.5vw;
+  border: 1px solid black;
+}
+
+.apointmentSmallInfo {
+  margin: 0.5vw;
+}
+
+.apointmentSmallButton {
+  margin-left: auto;
+  margin-right: 0.5vw;
+}
+
+.day-name img,
+.patients-header img {
+  height: 20px;
+  width: 20px;
+}
+
+/*------------------------------------------ Helpers -----------------------------------------------*/
+
+.invisible {
+  display: none;
+}
+
+.highlight {
+  background-color: #eede78;
+  color: #333;
+}

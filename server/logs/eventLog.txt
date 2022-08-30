@@ -1,0 +1,191 @@
+20220727 - 23:20:10 - Patient Ghio Francesca successfully deleted.
+20220727 - 23:21:23 - De Angeli Giuseppe successfully updated.
+20220727 - 23:23:07 - De Angeli Flavio successfully updated.
+20220727 - 23:23:10 - De Angeli Flavio successfully updated.
+20220727 - 23:31:18 - De Angeli Flavio successfully updated.
+20220727 - 23:31:20 - De Angeli Flavio successfully updated.
+20220727 - 23:31:28 - De Angeli Giuseppe successfully updated.
+20220727 - 23:31:36 - De Angeli Flavio successfully updated.
+20220727 - 23:31:50 - De Angeli Flavio successfully updated.
+20220727 - 23:31:54 - De Angeli Flavio successfully updated.
+20220727 - 23:31:55 - De Angeli Flavio successfully updated.
+20220727 - 23:32:04 - De Angeli Giuseppe successfully updated.
+20220727 - 23:32:06 - De Angeli Giuseppe successfully updated.
+20220727 - 23:32:34 - De Angeli Giuseppe successfully updated.
+20220727 - 23:32:34 - De Angeli Giuseppe successfully updated.
+20220727 - 23:32:35 - De Angeli Giuseppe successfully updated.
+20220727 - 23:32:37 - De Angeli Giuseppe successfully updated.
+20220727 - 23:32:41 - De Angeli Giuseppe successfully updated.
+20220727 - 23:32:44 - De Angeli Flavio successfully updated.
+20220727 - 23:35:19 - De Angeli Flavio successfully updated.
+20220727 - 23:35:20 - De Angeli Flavio successfully updated.
+20220727 - 23:35:28 - De Angeli Flavio successfully updated.
+20220727 - 23:35:36 - De Angeli Flavio successfully updated.
+20220727 - 23:35:37 - De Angeli Flavio successfully updated.
+20220727 - 23:35:39 - De Angeli Flavio successfully updated.
+20220727 - 23:36:16 - De Angeli Flavio successfully updated.
+20220727 - 23:36:21 - De Angeli Flavio successfully updated.
+20220727 - 23:36:24 - De Angeli Giuseppe successfully updated.
+20220727 - 23:36:25 - De Angeli Giuseppe successfully updated.
+20220727 - 23:36:26 - De Angeli Giuseppe successfully updated.
+20220727 - 23:36:34 - De Angeli Giuseppe successfully updated.
+20220727 - 23:36:38 - De Angeli Giuseppe successfully updated.
+20220727 - 23:37:13 - De Angeli Flavio successfully updated.
+20220727 - 23:37:20 - De Angeli Giuseppe successfully updated.
+20220727 - 23:37:26 - De Angeli Flavio successfully updated.
+20220727 - 23:48:22 - De Angeli Giuseppe successfully updated.
+20220727 - 23:51:03 - De Angeli Giuseppe successfully updated.
+20220727 - 23:51:06 - De Angeli Giuseppe successfully updated.
+20220727 - 23:51:12 - De Angeli Giuseppe successfully updated.
+20220727 - 23:51:21 - De Angeli Giuseppe successfully updated.
+20220727 - 23:51:22 - De Angeli Giuseppe successfully updated.
+20220727 - 23:53:39 - De Angeli Giuseppe successfully updated.
+20220727 - 23:53:46 - De Angeli Giuseppe successfully updated.
+20220727 - 23:54:02 - De Angeli Flavio successfully updated.
+20220727 - 23:54:51 - De Angeli Flavio successfully updated.
+20220727 - 23:54:51 - De Angeli Flavio successfully updated.
+20220727 - 23:55:04 - De Angeli Flavio successfully updated.
+20220727 - 23:55:13 - De Angeli Flavio successfully updated.
+20220727 - 23:55:22 - De Angeli Flavio successfully updated.
+20220727 - 23:55:25 - De Angeli Flavio successfully updated.
+20220727 - 23:55:48 - De Angeli Flavio successfully updated.
+20220727 - 23:56:03 - De Angeli Flavio successfully updated.
+20220727 - 23:56:04 - De Angeli Flavio successfully updated.
+20220727 - 23:57:02 - De Angeli Flavio successfully updated.
+20220727 - 23:57:23 - De Angeli Giuseppe successfully updated.
+20220727 - 23:57:33 - De Angeli Flavio successfully updated.
+20220728 - 22:15:29 - De Angeli Flavio successfully updated.
+20220728 - 23:28:48 - New patient aaaa aaaa successfully added.
+20220728 - 23:29:04 - aaaa aaaa successfully updated.
+20220728 - 23:31:01 - Patient aaaa aaaa successfully deleted.
+20220728 - 23:34:34 - New patient Lanfranchi Anna successfully added.
+20220808 - 23:48:40 - De Angeli Flavio successfully updated.
+20220808 - 23:49:02 - Lanfranchi Anna successfully updated.
+20220808 - 23:49:15 - Lanfranchi Anna successfully updated.
+20220808 - 23:49:16 - Lanfranchi Anna successfully updated.
+20220809 - 00:13:38 - Lanfranchi Anna successfully updated.
+20220810 - 22:11:22 - New patient Cappato Marco successfully added.
+20220810 - 22:12:16 - Cappato Marco successfully updated.
+20220810 - 22:12:43 - Cappato Marco successfully updated.
+20220810 - 22:12:46 - Cappato Marco successfully updated.
+20220810 - 22:12:47 - Cappato Marco successfully updated.
+20220810 - 22:12:54 - Cappato Marco successfully updated.
+20220811 - 22:41:18 - New patient aaaa aaaa successfully added.
+20220811 - 22:44:28 - New patient bbbbb bbbb successfully added.
+20220811 - 22:47:10 - New patient Rossi Frano successfully added.
+20220811 - 22:50:08 - New patient cccc cc successfully added.
+20220811 - 22:52:00 - New patient ddddd ddddd successfully added.
+20220811 - 23:06:04 - New patient gdhej hgjg successfully added.
+20220811 - 23:19:59 - New patient sssss ssssss successfully added.
+20220811 - 23:20:26 - Patient sssss ssssss successfully deleted.
+20220811 - 23:20:57 - Patient sssss ssssss successfully deleted.
+20220811 - 23:22:10 - Patient aaaa aaaa successfully deleted.
+20220811 - 23:22:20 - Patient ddddd ddddd successfully deleted.
+20220811 - 23:22:26 - Patient bbbbb bbbb successfully deleted.
+20220811 - 23:23:27 - Patient gdhej hgjg successfully deleted.
+20220811 - 23:23:41 - Patient cccc cc successfully deleted.
+20220811 - 23:31:12 - New patient yyr rnrrn successfully added.
+20220811 - 23:31:45 - Patient yyr rnrrn successfully deleted.
+20220812 - 21:10:21 - New patient aaa aaa successfully added.
+20220812 - 21:10:49 - Patient aaa aaa successfully deleted.
+20220812 - 21:45:44 - New patient ggdag gdgd successfully added.
+20220812 - 22:07:26 - Patient ggdag gdgd successfully deleted.
+20220812 - 22:07:37 - Rossi Frano successfully updated.
+20220812 - 22:09:17 - Cappato Marco successfully updated.
+20220812 - 22:09:30 - Cappato Marco successfully updated.
+20220812 - 22:09:40 - Cappato Marco successfully updated.
+20220812 - 22:13:00 - Lanfranchi Anna successfully updated.
+20220812 - 22:13:50 - Lanfranchi Anna successfully updated.
+20220812 - 22:17:45 - Lanfranchi Anna successfully updated.
+20220812 - 22:18:29 - Lanfranchi Anna successfully updated.
+20220812 - 22:18:35 - Lanfranchi Anna successfully updated.
+20220812 - 22:18:52 - Lanfranchi Anna successfully updated.
+20220812 - 22:54:51 - De Angeli Flavio successfully updated.
+20220812 - 23:11:57 - De Angeli Flavio successfully updated.
+20220812 - 23:12:07 - De Angeli Flavio successfully updated.
+20220812 - 23:33:56 - New patient hdfh sdgsd successfully added.
+20220817 - 10:40:20 - Patient hdfh sdgsd successfully deleted.
+20220818 - 11:33:54 - New patient Generali Viola successfully added.
+20220818 - 15:45:52 - Lanfranchi Anna successfully updated.
+20220818 - 22:15:48 - Generali Viola successfully updated.
+20220820 - 10:50:46 - De Angeli Flavio successfully updated.
+20220821 - 09:34:36 - Cappato Marco successfully updated.
+20220821 - 10:46:27 - De Angeli Flavio successfully updated.
+20220821 - 10:48:07 - De Angeli Flavio successfully updated.
+20220821 - 10:49:53 - Generali Viola successfully updated.
+20220821 - 11:05:14 - Lanfranchi Anna successfully updated.
+20220821 - 11:08:38 - De Angeli Giuseppe successfully updated.
+20220821 - 11:33:55 - Lanfranchi Anna successfully updated.
+20220821 - 11:35:29 - Generali Viola successfully updated.
+20220821 - 11:37:25 - Rossi Frano successfully updated.
+20220821 - 11:39:34 - Cappato Marco successfully updated.
+20220821 - 11:41:47 - Generali Viola successfully updated.
+20220821 - 11:43:37 - Rossi Frano successfully updated.
+20220821 - 12:00:42 - New patient Ghio Francesca successfully added.
+20220821 - 12:01:08 - Ghio Francesca successfully updated.
+20220821 - 12:01:53 - Ghio Francesca successfully updated.
+20220821 - 12:01:57 - Ghio Francesca successfully updated.
+20220821 - 12:04:19 - Ghio Francesca successfully updated.
+20220821 - 14:20:46 - De Angeli Flavio successfully updated.
+20220821 - 14:20:57 - De Angeli Flavio successfully updated.
+20220821 - 14:21:56 - De Angeli Flavio successfully updated.
+20220821 - 14:22:59 - De Angeli Flavio successfully updated.
+20220821 - 14:23:10 - De Angeli Flavio successfully updated.
+20220821 - 14:23:19 - De Angeli Flavio successfully updated.
+20220821 - 14:23:26 - De Angeli Flavio successfully updated.
+20220821 - 14:26:50 - De Angeli Flavio successfully updated.
+20220821 - 14:27:29 - De Angeli Flavio successfully updated.
+20220821 - 14:27:43 - De Angeli Flavio successfully updated.
+20220824 - 23:09:36 - New patient Paziente Test successfully added.
+20220824 - 23:10:49 - Paziente Test successfully updated.
+20220824 - 23:21:36 - De Angeli Flavio successfully updated.
+20220826 - 21:11:14 - Patient Cappato Marco successfully deleted.
+20220826 - 21:11:18 - Patient De Angeli Flavio successfully deleted.
+20220826 - 21:11:21 - Patient De Angeli Giuseppe successfully deleted.
+20220826 - 21:11:24 - Patient Generali Viola successfully deleted.
+20220826 - 21:11:27 - Patient Ghio Francesca successfully deleted.
+20220826 - 21:11:30 - Patient Lanfranchi Anna successfully deleted.
+20220826 - 21:11:32 - Patient Paziente Test successfully deleted.
+20220826 - 21:11:35 - Patient Rossi Frano successfully deleted.
+20220826 - 21:24:30 - New patient De Angeli Flavio successfully added.
+20220826 - 21:28:47 - New patient Ghio Francesca successfully added.
+20220826 - 21:30:17 - New patient De Angeli Giuseppe successfully added.
+20220826 - 21:31:21 - New patient Marchetti Lorena successfully added.
+20220826 - 21:31:36 - De Angeli Flavio successfully updated.
+20220826 - 21:31:55 - Ghio Francesca successfully updated.
+20220826 - 21:32:12 - De Angeli Giuseppe successfully updated.
+20220826 - 21:32:27 - Marchetti Lorena successfully updated.
+20220826 - 21:32:49 - De Angeli Flavio successfully updated.
+20220826 - 21:32:55 - De Angeli Flavio successfully updated.
+20220826 - 21:33:04 - Marchetti Lorena successfully updated.
+20220826 - 21:33:11 - De Angeli Giuseppe successfully updated.
+20220826 - 21:33:23 - Ghio Francesca successfully updated.
+20220826 - 21:33:36 - De Angeli Flavio successfully updated.
+20220826 - 21:33:44 - Marchetti Lorena successfully updated.
+20220826 - 21:34:00 - De Angeli Flavio successfully updated.
+20220826 - 21:34:18 - De Angeli Giuseppe successfully updated.
+20220826 - 21:34:23 - Ghio Francesca successfully updated.
+20220826 - 21:34:31 - Ghio Francesca successfully updated.
+20220826 - 21:34:38 - Ghio Francesca successfully updated.
+20220826 - 21:34:53 - De Angeli Flavio successfully updated.
+20220826 - 23:23:34 - De Angeli Flavio successfully updated.
+20220828 - 12:18:49 - Marchetti Lorena successfully updated.
+20220828 - 16:18:26 - De Angeli Giuseppe successfully updated.
+20220828 - 16:19:03 - De Angeli Flavio successfully updated.
+20220828 - 18:10:22 - Ghio Francesca successfully updated.
+20220828 - 18:14:18 - Ghio Francesca successfully updated.
+20220828 - 18:16:33 - De Angeli Giuseppe successfully updated.
+20220828 - 18:49:11 - Marchetti Lorena successfully updated.
+20220828 - 18:51:17 - De Angeli Flavio successfully updated.
+20220828 - 18:54:49 - Ghio Francesca successfully updated.
+20220828 - 18:57:21 - Marchetti Lorena successfully updated.
+20220828 - 18:59:36 - De Angeli Flavio successfully updated.
+20220828 - 19:03:28 - De Angeli Giuseppe successfully updated.
+20220828 - 19:03:41 - Ghio Francesca successfully updated.
+20220828 - 19:04:11 - Marchetti Lorena successfully updated.
+20220828 - 19:55:13 - De Angeli Flavio successfully updated.
+20220828 - 19:55:21 - De Angeli Giuseppe successfully updated.
+20220828 - 19:55:32 - Marchetti Lorena successfully updated.
+20220828 - 20:02:08 - Ghio Francesca successfully updated.
+20220828 - 20:02:23 - De Angeli Giuseppe successfully updated.
+20220828 - 20:02:35 - Marchetti Lorena successfully updated.
